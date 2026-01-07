@@ -1,0 +1,13 @@
+.attendance-list {
+text-align:  center;
+}
+.attendance-list table{
+     margin-left: auto;
+    margin-right: auto;
+}
+.attendance-list th {
+    padding:  15px
+}
+.attendance-list td {
+     padding:  5px 15px
+}
